@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-
+    /*Prints name and major*/
     printf("Carter\n");
     printf("Electrical Engineering!\n");
     printf("Evan\n");
