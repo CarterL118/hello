@@ -10,6 +10,7 @@
 int main(int argc, char **argv) {
 
     printf("Carter\n");
+    printf("Electrical Engineering!\n");
 
     return 0;
 }
